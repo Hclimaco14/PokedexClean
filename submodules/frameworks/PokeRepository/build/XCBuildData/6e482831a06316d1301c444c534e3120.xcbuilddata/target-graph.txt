@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'PokeRepositoryTests' in project 'PokeRepository'
+➜ Explicit dependency on target 'PokeRepository' in project 'PokeRepository'
+Target 'PokeRepository' in project 'PokeRepository' (no dependencies)

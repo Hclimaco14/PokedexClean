@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary.swiftconstvalues",
+    "dependencies" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary.d",
+    "diagnostics" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary.dia",
+    "emit-module-dependencies" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary-emit-module.dia",
+    "pch" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokeRepository-primary.swiftdeps"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/Utils/Constants.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Constants.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Constants.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Constants.o"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/Utils/JsonUtils.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/JsonUtils.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/JsonUtils.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/JsonUtils.o"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/Utils/Mapper.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Mapper.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Mapper.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/Mapper.o"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/Utils/NetworkUtils.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/NetworkUtils.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/NetworkUtils.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/NetworkUtils.o"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/Utils/ServicesManager.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/ServicesManager.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/ServicesManager.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/ServicesManager.o"
+  },
+  "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/PokeRepository/WebServices/PokemonWS.swift" : {
+    "index-unit-output-path" : "/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokemonWS.o",
+    "llvm-bc" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokemonWS.bc",
+    "object" : "/Users/hectorclimaco/Git/PokedexClean/submodules/frameworks/PokeRepository/build/PokeRepository.build/Release-iphonesimulator/PokeRepository.build/Objects-normal/x86_64/PokemonWS.o"
+  }
+}

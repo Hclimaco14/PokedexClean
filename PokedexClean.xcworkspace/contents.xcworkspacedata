@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:submodules/Pokedex/Pokedex.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:submodules/frameworks/PokeUI/PokeUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:submodules/frameworks/PokeCore/PokeCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:submodules/frameworks/PokeSharedUI/PokeSharedUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:submodules/frameworks/PokeRepository/PokeRepository.xcodeproj">
+   </FileRef>
+</Workspace>
